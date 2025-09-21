@@ -40,7 +40,7 @@ jupyter nbconvert --to notebook --execute create_submit.ipynb --output create_su
 - 📥 [Book(600img)](https://universe.roboflow.com/seopacme/book-m95oe/dataset/1)
 
 ## ⚙️ Структура
-.
+
 ├── data/                   # Датасеты (скачать отдельно)
 ├── dataset/                # Итоговый датасет
 ├── models/                 # Обученные модели

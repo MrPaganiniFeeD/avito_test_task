@@ -48,7 +48,6 @@ jupyter nbconvert --to notebook --execute create_submit.ipynb --output create_su
 ├── train_model.ipynb       # Обучение модели
 ├── create_submit.ipynb    # Генерация сабмита
 ├── requirements.txt          # Зависимости
-├── run.sh                          # Скрипт для полного запуска
 └── README.md                # Документация
 
 ## 🧠 Модель

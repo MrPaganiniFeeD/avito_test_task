@@ -1,4 +1,6 @@
 venv/
-data/
-yolo11n.pt
+data/*
+dataset/*
 runs/
+models/*
+*.pt

@@ -1,4 +1,3 @@
-# avito_test_task
 # Test Assignment for Avito — ML Pipeline
 
 ## 📌 Описание

@@ -70,3 +70,10 @@ jupyter nbconvert --to notebook --execute create_submit.ipynb --output create_su
 | mAP50-95  | 0.584    |
 | Precision | 0.814    |
 | Recall    | 0.476    |
+
+![nms_13](https://github.com/user-attachments/assets/30686a50-5488-4889-8bb4-26639316244b)
+![nms_27](https://github.com/user-attachments/assets/7ad7bf37-1a70-4ef7-ae32-336857e38e33)
+![nms_47](https://github.com/user-attachments/assets/28ef60a0-d452-409f-8da7-93f76598c85c)
+![nms_48](https://github.com/user-attachments/assets/bc90792f-66a5-4978-93f5-915262f8b325)
+![nms_95](https://github.com/user-attachments/assets/54e7cd8c-344e-4784-86ce-d4a8bcd8d01f)
+
